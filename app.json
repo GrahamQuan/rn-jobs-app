@@ -8,6 +8,23 @@
       "expo-router"
     ],
     "name": "jobs-app",
-    "slug": "jobs-app"
+    "slug": "rn-jobs-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b57f9354-5bae-4f00-b18f-3c3cb76e2ad3"
+      }
+    },
+    "owner": "grahamquan",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b57f9354-5bae-4f00-b18f-3c3cb76e2ad3"
+    },
+    "android": {},
+    "ios": {}
   }
 }
